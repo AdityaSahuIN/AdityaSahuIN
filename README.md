@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:--->
 
-- 👋 Hi, I’m @AdityaSahuIN
+- 👋 Hi, I’m Aditya Kumar
 - 👀 I’m interested in ... UI/UX Design
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Elon Musk
