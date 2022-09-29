@@ -6,8 +6,8 @@
 Here are some ideas to get you started:--->
 
 - 👋 Hi, I’m Aditya Kumar
-- 👀 I’m interested in ... UI/UX Design
-- 🌱 I’m currently learning ... Python
+- 👀 I’m interested in ... Data Science 
+- 🌱 I’m currently learning ... React & Python
 - 💞️ I’m looking to collaborate on ... Elon Musk
 - 📫 How to reach me ... Earth
 - ⚡ Fun fact: ... I'm 9Teen
